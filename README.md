@@ -1,4 +1,4 @@
-# AI Workshop
+
 > **Created and maintained by : Ibrahim Alobaid**  
 > [GitHub](https://github.com/IbrahimAlobid2) | [Linkedin](https://www.linkedin.com/in/ibrahimalobaid44/) .
 
