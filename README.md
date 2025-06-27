@@ -278,22 +278,6 @@ numpy>=1.21.0
 
 ##  Deployment
 
-### Replit Deployment
-
-The application is configured for Replit deployment:
-
-1. **Server Configuration** (`.streamlit/config.toml`):
-   ```toml
-   [server]
-   headless = true
-   address = "0.0.0.0"
-   port = 5000
-   ```
-
-2. **Workflow Configuration**:
-   ```bash
-   streamlit run app.py --server.port 5000
-   ```
 
 ### Docker Deployment
 
